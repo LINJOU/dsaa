@@ -1,6 +1,4 @@
 # dsaa
 data structure and arithmetic
-```mermaid
-graph TD;
-  A-->B
-```
+op1=>operation: my ope
+op2=>operation: my ope
